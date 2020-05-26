@@ -1,9 +1,11 @@
 # Service-Selection-BoardSSB Procedure
-day 1 - Screening 
+day 1 - Screening
+
           >OIR test
 	  >PPDT
 
-Day 2-4 - Pshychological test
+Day 2-4 - Pshychological Test
+
           >TAT
 	  >WAT
 	  >SRT
