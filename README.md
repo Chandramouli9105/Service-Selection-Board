@@ -1,24 +1,16 @@
 # Service-Selection-BoardSSB Procedure
 day 1 - Screening 
-
-[A          > OIR test
-		[D[D[D[D[D[D> PPDT
+          >OIR test
+	  >PPDT
 
 Day 2-4 - Pshychological test
-
-[A          >TAT
+          >TAT
 	  >WAT
+	  >SRT
 	  >SD
-[A
 	  >GD
 	  >Lecture
-	  >[A[A[A[C[A[C[C
+	  >Obstacles race
+          >interview
 
-
-[C[C[C[C[C[C[C[C[C[C[C[BSRT[D[D[D[D>[C[C[C
-
-[A	  >Obstacles race
-
-[A[C[C[C[C[C[C[C[C[C[C[>interview
-
-Day 5 -Conference
+Day 5 -Conference
