@@ -13,6 +13,6 @@ Day 2-4 - Pshychological Test
 	  >GD
 	  >Lecture
 	  >Obstacles race
-          >interview
+	  >Interview
 
 Day 5 -Conference
